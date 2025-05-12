@@ -3,6 +3,7 @@ Aplikasi Berita(NewsApp)
 
 ## Fitur Utama
 - Menampilkan berita.
+- Menampilkan detail berita dengan webview
 - Pencarian berita berdasarkan kata kunci.
 - Filter berita per kategori (bisnis, teknologi, dll.).
 - Pagination untuk daftar berita.
@@ -15,6 +16,7 @@ Aplikasi Berita(NewsApp)
     - Swipe refresh layout
     - Chucker
     - Glide.
+    - WebView
     - Jetpack Components:
         - ViewModel + LiveData
         - Paging 3 (untuk pagination)
